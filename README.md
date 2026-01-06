@@ -1,72 +1,104 @@
-# Hi there, I'm Hitesh Baghel 👋
+# Hi, I'm Hitesh Baghel 👋  
+**Java Backend Developer | Spring Boot | Scalable Systems**
 
-### Java Backend Developer | Spring Boot Enthusiast | Problem Solver
-
-I am a backend-focused developer passionate about creating impactful digital solutions. My journey is driven by a desire to solve complex problems using **Java, Spring Boot, and MySQL**. With a strong foundation in OOP and Data Structures, I enjoy building scalable systems and exploring the intersection of backend engineering and AI.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** Java, C++, JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries:** Spring Boot, Hibernate, Spring AI, React, Tailwind CSS
-- **Databases:** MySQL
-- **Tools & DevOps:** Git, Docker, Postman, JUnit, Vercel, Render
-- **Core Concepts:** REST APIs, SOLID Principles, Design Patterns, Data Structures & Algorithms
+I’m a backend-focused software engineer passionate about building **scalable, maintainable, and production-grade applications** using **Java, Spring Boot, and MySQL**. I enjoy solving complex problems, designing clean APIs, and turning ideas into reliable systems.
 
 ---
 
-### 🚀 Featured Projects
-
-#### [SkillSyncAI – AI Powered Platform](https://skillsyncai.vercel.app/)
-*AI-driven platform for mock interviews and placement readiness.*
-- **Tech:** React, Java, Spring Boot, MySQL, Docker
-- **Key Features:** AI mock interviews, ML-based placement prediction, and real-time analytics.
-- [GitHub Repo](https://github.com/hiteshbaghel/SkillSyncAI)
-
-#### [ByteWise](https://bytewise24.vercel.app/)
-*Comprehensive academic toolkit and e-commerce resource center.*
-- **Tech:** Java, Spring Boot, React, Razorpay API, MySQL
-- **Key Features:** Admin dashboard with CRUD, payment integration, and course showcase.
-- [GitHub Repo](https://github.com/hiteshbaghel/ByteWise)
+## 🚀 What I Do
+- Design and develop **RESTful APIs** with Spring Boot  
+- Build **backend systems** with clean architecture & SOLID principles  
+- Work on **full-stack products**, collaborating across frontend & backend  
+- Write **testable, maintainable code** with real-world scalability in mind  
 
 ---
 
-### 🏆 Achievements & Leadership
+## 🧠 Tech Stack
 
-- **Google Cloud Arcade Facilitator (2025):** Mentored 350+ students in cloud-native application deployment and hands-on labs.
-- **Winner, ProjectExpo 4.0 (2025):** Secured **1st Prize** out of 72+ projects for SkillSyncAI at MIT Ujjain.
-- **Coding Club Core Member:** Led technical workshops and mentored 50+ students in programming fundamentals.
-- **Codathon Top Performer:** Recognized for excellence in competitive coding and algorithmic thinking.
+**Backend**
+- Java, Spring Boot, Hibernate/JPA
+- REST APIs, Microservices (foundations)
+- MySQL
 
----
+**Frontend**
+- React, JavaScript
+- HTML5, CSS3, Tailwind CSS
 
-### 🎓 Education
+**DevOps & Tools**
+- Git & GitHub
+- Docker
+- Postman
+- JUnit
+- Vercel, Render
 
-- **B.Tech in Computer Science Engineering** | Mahakal Institute of Technology, Ujjain (2022 - 2026)
-- **Intermediate (PCM)** | Padmaja Higher Secondary School, Dewas
-
----
-
-### 📜 Certifications
-
-- **Java Spring Framework & Spring AI** – Telusko (Udemy)
-- **SOLID Principles & Design Patterns** – Scaler Masterclass
-- **Web Component Development (JSP/Servlet)** – AK Soft
-
----
-
-### 📫 Connect with Me
-
-- **Email:** [hiteshbaghel03@gmail.com](mailto:hiteshbaghel03@gmail.com)
-- **LinkedIn:** [in/hiteshbaghel](https://in.linkedin.com/in/hiteshbaghel)
-- **Twitter:** [@HiteshBaghel_](https://x.com/HiteshBaghel_)
-- **LeetCode:** [hiteshbaghel](https://leetcode.com/u/hiteshbaghel/)
-- **Resume:** [View My Resume](https://drive.google.com/file/d/1idKwpOIaIdtw8Fp1VWCaFoQy12ffF74U/view?usp=sharing)
+**Core CS**
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- System Design (Basics)
 
 ---
 
-### 📊 GitHub Stats
+## 🏗️ Featured Projects
 
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiteshbaghel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshbaghel&layout=compact&theme=radical)
+### 🔹 SkillSyncAI – AI Powered Placement Platform
+**Tech:** React, Java, Spring Boot, MySQL, Docker  
+- AI-driven mock interviews & quiz generation  
+- Placement prediction using ML models  
+- Leaderboard, analytics, and student performance tracking  
+
+🔗 Live: https://skillsyncai.vercel.app  
+🔗 Code: https://github.com/hiteshbaghel/SkillSyncAI  
+
+---
+
+### 🔹 ByteWise – Academic & Learning Platform
+**Tech:** React, Java, Spring Boot, MySQL  
+- Semester resources & course marketplace  
+- Razorpay payment integration  
+- Admin dashboard with analytics & CRUD operations  
+
+🔗 Live: https://bytewise24.vercel.app  
+🔗 Code: https://github.com/hiteshbaghel/ByteWise  
+
+---
+
+## 🏆 Achievements
+- **Google Cloud Arcade Facilitator (2025)** – Mentored 350+ students in cloud-native development  
+- **1st Prize – ProjectExpo 4.0 (MIT Ujjain)** for SkillSyncAI (72+ teams)  
+- **Core Member – Coding Club, MIT Ujjain** (mentored 50+ students)  
+- **Top Performer – Codathon, MIT Ujjain**
+
+---
+
+## 🎓 Education
+**B.Tech – Computer Science Engineering**  
+Mahakal Institute of Technology, Ujjain (2022 – 2026)
+
+---
+
+## 📜 Certifications
+- Java Spring Framework, Spring Boot & Spring AI – Telusko (Udemy)  
+- SOLID Principles & Design Patterns – Scaler  
+- Java Web (JSP, Servlet, MySQL) – AK Soft  
+- C & C++ Fundamentals – AK Soft  
+
+---
+
+## 💼 Experience
+**Java Developer Intern – Codsoft**  
+- Worked on Java-based applications  
+- Hands-on experience with debugging, feature development & Git  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: hiteshbaghel03@gmail.com  
+- 💼 LinkedIn: https://in.linkedin.com/in/hiteshbaghel  
+- 💻 GitHub: https://github.com/hiteshbaghel  
+- 🧠 LeetCode: https://leetcode.com/u/hiteshbaghel/  
+- 🐦 Twitter/X: https://x.com/HiteshBaghel_  
+- 📄 Resume: https://drive.google.com/file/d/1idKwpOIaIdtw8Fp1VWCaFoQy12ffF74U/view  
+
+---
+
+⭐ *Always learning. Always building. Focused on backend excellence.*

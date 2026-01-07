@@ -58,7 +58,7 @@ Backend engineer passionate about crafting **scalable applications** with **Java
 
 ## 🏆 Featured Projects
 
-<div align="center">
+
 
 ### 🤖 SkillSyncAI
 **AI-Powered Career Development Platform**
@@ -104,7 +104,7 @@ Backend engineer passionate about crafting **scalable applications** with **Java
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</div>
+
 ---
 
 ## 🎯 Achievements & Leadership

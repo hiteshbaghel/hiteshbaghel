@@ -57,49 +57,53 @@ Backend engineer passionate about crafting **scalable applications** with **Java
 ---
 
 ## 🏆 Featured Projects
+
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 SkillSyncAI</h3>
-      <div align="center">
-        <a href="https://skillsyncai.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-Demo-3B82F6?style=for-the-badge" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/hiteshbaghel/SkillSyncAI">
-          <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
-        </a>
-        <p><strong>AI-Powered Career Development Platform</strong></p>
-        <p>✨ AI Mock Interviews with real-time feedback</p>
-        <p>📝 Dynamic Quiz Generation</p>
-        <p>📊 ML-based Placement Prediction</p>
-        <p>🎯 Personalized Learning Paths</p>
-        <br/>
-        <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></p>
-        <p>🏆 <strong>1st Prize - ProjectExpo 4.0</strong></p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 ByteWise</h3>
-      <div align="center">
-        <a href="https://bytewise24.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-Demo-3B82F6?style=for-the-badge" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/hiteshbaghel/ByteWise">
-          <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
-        </a>
-        <p><strong>Complete Academic Toolkit</strong></p>
-        <p>📖 Curated Learning Resources</p>
-        <p>💳 Integrated Payment Gateway</p>
-        <p>👨‍💼 Comprehensive Admin Dashboard</p>
-        <p>🔐 Secure Authentication System</p>
-        <br/>
-        <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></p>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🤖 SkillSyncAI
+**AI-Powered Career Development Platform**
+
+<a href="https://skillsyncai.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-3B82F6?style=for-the-badge" alt="Live Demo"/>
+</a>
+<a href="https://github.com/hiteshbaghel/SkillSyncAI">
+  <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+</a>
+
+✨ AI Mock Interviews with real-time feedback  
+📝 Dynamic Quiz Generation  
+📊 ML-based Placement Prediction  
+🎯 Personalized Learning Paths
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+🏆 **1st Prize - ProjectExpo 4.0**
+
+---
+
+### 📚 ByteWise
+**Complete Academic Toolkit**
+
+<a href="https://bytewise24.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-3B82F6?style=for-the-badge" alt="Live Demo"/>
+</a>
+<a href="https://github.com/hiteshbaghel/ByteWise">
+  <img src="https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github" alt="View Code"/>
+</a>
+
+📖 Curated Learning Resources  
+💳 Integrated Payment Gateway  
+👨‍💼 Comprehensive Admin Dashboard  
+🔐 Secure Authentication System
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 </div>
 ---
 
